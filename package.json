@@ -1,0 +1,29 @@
+{
+  "name": "lesson1_mail",
+  "version": "1.0.0",
+  "description": "Tst for serverless email form for static web site",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voskresla/serverless_mail_Lesson1_smashing_magazine.git"
+  },
+  "keywords": [
+    "serverless",
+    "smashingmagazine",
+    "static",
+    "aws",
+    "lambda"
+  ],
+  "author": "vskrsl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/voskresla/serverless_mail_Lesson1_smashing_magazine/issues"
+  },
+  "homepage": "https://github.com/voskresla/serverless_mail_Lesson1_smashing_magazine#readme",
+  "dependencies": {
+    "serverless": "^1.27.2"
+  }
+}
